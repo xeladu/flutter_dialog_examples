@@ -1,16 +1,15 @@
-# flutter_dialog_examples
+This repo contains files that are part of the post at [How to work with dialogs, toasts, and overlays in Flutter apps](https://levelup.gitconnected.com/send-push-notifications-from-a-flutter-app-to-devices-with-firebase-9c84ce58fe30) on Medium.
 
-A new Flutter project.
+# Content
 
-## Getting Started
+The repository contains a Flutter app to showcase various dialogs, toasts, and notification possibilities of Flutter.
 
-This project is a starting point for a Flutter application.
+# Support
 
-A few resources to get you started if this is your first Flutter project:
+If you like this post or my work in general, feel free to support me in any way ❤
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- You can [become a Medium member via my referral link](https://xeladu.medium.com/membership) for just $5 a month! 💖
+- You can [buy me a coffee](https://www.buymeacoffee.com/xeladu) ☕
+- You can [browse my Gumroad store](https://xeladu.gumroad.com) for ebooks and freebies 📙
+- You can [join my free monthly Medium Newsletter](https://bit.ly/xeladu-medium) 💌
+- You can [find all my published stuff here](https://xeladu.medium.com/%E2%84%B9-xeladus-info-point-find-quickly-what-you-need-bbe620e97d8c)
