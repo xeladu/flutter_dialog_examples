@@ -1,4 +1,4 @@
-This repo contains files that are part of the post at [How to work with dialogs, toasts, and overlays in Flutter apps](https://levelup.gitconnected.com/send-push-notifications-from-a-flutter-app-to-devices-with-firebase-9c84ce58fe30) on Medium.
+This repo contains files that are part of the post at [How to work with dialogs, toasts, and overlays in Flutter apps](https://levelup.gitconnected.com/how-to-work-with-dialogs-toasts-and-overlays-in-flutter-apps-b53c5ce37aa6) on Medium.
 
 # Content
 
